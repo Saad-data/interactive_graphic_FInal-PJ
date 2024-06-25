@@ -117,10 +117,14 @@ Used as a bump map for the maze walls to add depth and texture.
 Used as a bump map for the ceiling to add visual detail.
 
 ### `floor_bump.png`
-Used as a bump map for the floor inside the maze to enhance the appearance.
+Used as a bump map for the floor inside the maze to enhance its appearance.
 
 ### `floor.gif`
 Used as the texture for the outside floor surrounding the maze.
+
+### `Demo`
+You can try the live demo of the Maze Game by clicking the link below:
+[Live Demo](http://127.0.0.1:5500/index.html)
 
 ## Conclusion
 
